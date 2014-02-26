@@ -10,4 +10,6 @@ This repository includes the CNC adapter PCB for the BBB and Pololu stepper driv
 
 See the DMM in operation: http://youtu.be/r77spFATp_I
 
+![](MiniMill2.jpg)
+
 ![](DMM.jpg)
